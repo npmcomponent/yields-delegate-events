@@ -1,0 +1,14 @@
+{
+  "name": "yields-delegate-events",
+  "description": "delegate events from one emitter to another",
+  "version": "0.0.1",
+  "keywords": [
+    "delegate",
+    "events"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git"
+  },
+  "license": "MIT"
+}

@@ -3,7 +3,7 @@
  * Dependencies
  */
 
-var each = require('each');
+var each = require('component-each');
 
 /**
  * Export `delegate`
